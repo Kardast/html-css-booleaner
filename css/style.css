@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+}
+
 /* Header */
 #banner{
     width: 100%;
@@ -30,9 +34,20 @@ header p{
     background-color: yellow;
 }
 
+.lista{
+    padding-left: 20px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
 #row1{
-    font-weight: 800;
     background-color: blue;
+}
+
+.spazio{
+    width: 25%;
 }
 
 #row_aqua{
@@ -43,3 +58,22 @@ header p{
     font-weight: 800;
     color: grey;
 }
+
+.img_footer{
+    background-image: url("../img/monitor.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    color: white;
+    font-weight: 800;
+    padding-top: 10px;
+}
+
+.img_footer2{
+    background-image: url("../img/graph.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    color: white;
+    font-weight: 800;
+    padding-top: 10px;
+}
+
