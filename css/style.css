@@ -1,11 +1,23 @@
+/* Header */
 #banner{
     width: 100%;
     height: 180px;
     background-image: url("../img/pattern.png");
     background-color: aqua;
+    position: relative;
 }
 
 #titolo{
     margin-right: 75%;
-    margin-top: 10%;
+    position: absolute;
 }
+
+header p{
+    color: gray;
+}
+
+#blue{
+    color: blue;
+}
+/* End Header */
+
