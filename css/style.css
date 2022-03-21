@@ -26,18 +26,22 @@ header p{
 }
 /* End Header */
 
+/* Testo sotto foto */
 .testo_piccolo{
     font-size: smaller;
 }
 
+/* Scritte evidenziate */
 .evidenziato{
     background-color: yellow;
 }
 
+/* LIsta non ordinata */
 .lista{
     padding-left: 20px;
 }
 
+/* Tabella */
 table{
     border-collapse: collapse;
 }
@@ -53,7 +57,9 @@ table{
 #row_aqua{
     background-color: aqua;
 }
+/* Fine tabella */
 
+/* Footer */
 .consigli{
     font-weight: 800;
     color: grey;
@@ -76,4 +82,4 @@ table{
     font-weight: 800;
     padding-top: 10px;
 }
-
+/* Fine footer */
