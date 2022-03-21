@@ -38,3 +38,8 @@ header p{
 #row_aqua{
     background-color: aqua;
 }
+
+.consigli{
+    font-weight: 800;
+    color: grey;
+}
