@@ -100,3 +100,8 @@ table{
     padding-top: 10px;
 }
 /* Fine footer */
+
+.macro_div{
+    margin-left: 5%;
+    margin-right: 5%;
+}
