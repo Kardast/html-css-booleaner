@@ -11,10 +11,14 @@ body{
     /* position: relative; */
 }
 
-#titolo{
+#logo{
     margin-right: 75%;
     margin-top: 25px;
     /* position: absolute; */
+}
+
+.titolo{
+    margin-bottom: 0;
 }
 
 header p{
@@ -26,9 +30,18 @@ header p{
 }
 /* End Header */
 
+.foto_tim{
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
 /* Testo sotto foto */
 .testo_piccolo{
     font-size: smaller;
+}
+
+.nomi{
+    margin: 0;
 }
 
 /* Scritte evidenziate */
@@ -41,13 +54,17 @@ header p{
     padding-left: 20px;
 }
 
+li p{
+    margin: 0;
+}
+
 /* Tabella */
 table{
     border-collapse: collapse;
 }
 
 #row1{
-    background-color: blue;
+    background-color: rgb(98, 98, 163);
 }
 
 .spazio{
