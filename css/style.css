@@ -4,12 +4,13 @@
     height: 180px;
     background-image: url("../img/pattern.png");
     background-color: aqua;
-    position: relative;
+    /* position: relative; */
 }
 
 #titolo{
     margin-right: 75%;
-    position: absolute;
+    margin-top: 25px;
+    /* position: absolute; */
 }
 
 header p{
@@ -21,3 +22,19 @@ header p{
 }
 /* End Header */
 
+.testo_piccolo{
+    font-size: smaller;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+#row1{
+    font-weight: 800;
+    background-color: blue;
+}
+
+#row_aqua{
+    background-color: aqua;
+}
