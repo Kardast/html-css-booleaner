@@ -1,0 +1,11 @@
+#banner{
+    width: 100%;
+    height: 180px;
+    background-image: url("../img/pattern.png");
+    background-color: aqua;
+}
+
+#titolo{
+    margin-right: 75%;
+    margin-top: 10%;
+}
